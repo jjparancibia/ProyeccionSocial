@@ -1,6 +1,6 @@
 # Temario Semana_1
 
--Introducción a la Programación
+-Introducción a la Programación 
 -Introducción al Lenguaje C++
 -Estructura Básica de un Programa en C++
 -Manejo de la Consola
