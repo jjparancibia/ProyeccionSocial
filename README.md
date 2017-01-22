@@ -1,5 +1,5 @@
 # Programación Estructurada en C++
-Horario: Domingos 3pm - 6pm<br /><br />
+Horario: Domingos 3pm - 9pm<br /><br />
 
 Universidad Nacional de Ingeniería<br />
 Facultad de Ingeniería Eléctrica y Electrónica<br />
