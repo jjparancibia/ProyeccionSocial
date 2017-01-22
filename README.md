@@ -5,19 +5,18 @@ Universidad Nacional de Ingeniería<br />
 Facultad de Ingeniería Eléctrica y Electrónica<br />
 Área de Proyección Social<br />
 
-
-
 # Sesión 1: CONCEPTOS BÁSICOS Y OPERACIONES BÁSICAS
-Introducción al curso<br />
-Estructura de un programa<br />
-Manejo de la consola<br />
-Comentarios en el código<br />
-Tipos de Variable y asignaciones<br />
+Introducción a la Programación<br />
+Introducción al Lenguaje C++<br />
+Estructura Básica de un Programa en C++<br />
+Manejo de la Consola<br />
+Comentarios<br />
+Tipos de variables y asignaciones<br />
 Tipos de datos<br />
 Entrada por consola<br />
-Operadores aritméticos<br />
-Operadores lógicos y de comparación<br />
-Biblioteca cmath<br />
+Operadores Aritméticos<br />
+Operadores Lógicos y de Comparación<br />
+Librería CMATH<br />
 Constantes<br />
 
 # Sesión 2: ESTRUCTURAS DE CONTROL
