@@ -1,14 +1,14 @@
 # Temario Semana_1
 
--Introducción a la Programación \n
--Introducción al Lenguaje C++
--Estructura Básica de un Programa en C++
--Manejo de la Consola
--Comentarios
--Tipos de variables y asignaciones
--Tipos de datos
--Entrada por consola
--Operadores Aritméticos
--Operadores Lógicos y de Comparación
--Librería CMATH
--Constantes
+-Introducción a la Programación__
+-Introducción al Lenguaje C++__
+-Estructura Básica de un Programa en C++__
+-Manejo de la Consola__
+-Comentarios__
+-Tipos de variables y asignaciones__
+-Tipos de datos__
+-Entrada por consola__
+-Operadores Aritméticos__
+-Operadores Lógicos y de Comparación__
+-Librería CMATH__
+-Constantes__
