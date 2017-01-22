@@ -1,4 +1,4 @@
 # Programación en C++
-Universidad Nacional de Ingeniería
-Facultad de Ingeniería Eléctrica y Electrónica
-Proyección Social
+Universidad Nacional de Ingeniería<br />
+Facultad de Ingeniería Eléctrica y Electrónica<br />
+Proyección Social<br />
