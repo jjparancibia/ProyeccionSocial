@@ -1,4 +1,5 @@
-# Instalación de CODEBLOCKS
+# Descarga y uso de CODEBLOCKS
+<strong>NO REQUIERE INSTALACIÓN</strong><br />
 1.- Acceder al siguiente link seguro: <br />
 http://sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/codeblocks-16.01mingw-nosetup.zip
 <br />
