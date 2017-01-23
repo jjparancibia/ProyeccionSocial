@@ -9,10 +9,10 @@ codeblocks-16.01mingw-nosetup.zip
 4.- Dar doble clic en: <strong>codeblocks.exe</strong><br />
 5.- Aparecerá una ventana emergente, dar clic en Aceptar<br />
 6.- Para crear un nuevo archivo, seguir los siguientes pasos: <br />
-  File -> New -> Empty File (Aparecerá un Archivo en Blanco)
-  File -> Save File -> Elegir donde guardar el archivo (el nombre debe de terminar en .cpp)
+  File -> New -> Empty File (Aparecerá un Archivo en Blanco) <br />
+  File -> Save File -> Elegir donde guardar el archivo (el nombre debe de terminar en .cpp)<br />
 7.- Para compilar y ejecutar el archivo: <br />
-  Dar clic en el botón Build and Run (se encuentra en la parte superior de la ventana, tuerca amarilla intersectada  con un triangulo verde)
+  Dar clic en el botón Build and Run (se encuentra en la parte superior de la ventana, tuerca amarilla intersectada  con un triangulo verde)<br /><br />
 
 
 # Temario Semana_1
