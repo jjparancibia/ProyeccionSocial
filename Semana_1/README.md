@@ -1,5 +1,5 @@
 # Instalación de CODEBLOCKS
-1.- Acceder al siguiente link:
+1.- Acceder al siguiente link seguro: <br />
 http://sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/codeblocks-16.01mingw-nosetup.zip
 
 # Temario Semana_1
