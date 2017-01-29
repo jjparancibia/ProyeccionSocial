@@ -1,8 +1,8 @@
 # Temario Semana_1
 
--Estructura condicional simple
--Estructura condicional múltiple
--Estructura While y Do-While
--Contadores y acumuladores
--Estructura For
--Ámbito de una variable
+-Estructura condicional simple<br>
+-Estructura condicional múltiple<br>
+-Estructura While y Do-While<br>
+-Contadores y acumuladores<br>
+-Estructura For<br>
+-Ámbito de una variable<br>
