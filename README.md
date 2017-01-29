@@ -22,7 +22,7 @@ Constantes<br />
 # Sesión 2: ESTRUCTURAS DE CONTROL
 Estructura condicional simple<br />
 Estructura condicional múltiple<br />
-Estructura While (Mientras ) y Do-While (Hacer - Mientras)<br />
+Estructura While y Do-While<br />
 Contadores y acumuladores<br />
 Estructura For<br />
 Ámbito de una variable<br />
