@@ -1,4 +1,4 @@
-# Temario Semana_1
+# Temario Semana_2
 
 -Estructura condicional simple<br>
 -Estructura condicional múltiple<br>
